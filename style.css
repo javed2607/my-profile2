@@ -1,0 +1,57 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+ color:purple ;
+ font-family: helvetica;
+ font-weight: 100;
+ letter-spacing: 10px;
+ font-size: 30px;
+}
+
+h2 { 
+color:blue;
+}
+
+h4 { 
+text-align: center;
+}
+
+div { 
+background-color: #1247db;
+
+border-radius: 15px;
+padding: 20px;
+margin: 90px;
+box-shadow: 10px 10px 15px black;
+text-align: center
+
+}
+#btn{
+	width: 30%;
+	margin: 15px auto;
+}
+@media (max-width: 500px)  {
+	.container  {
+		width: 400px;
+	}
+
+}
+
+
+@media (max-width: 750px)  {
+	.container  {
+		width: 600px;
+	}
+	}
+
+body { 
+	background-image: url(fond.jpg
+		);
+	color:white;
+	font-family:trade winds;
+	font-size: 20px;
